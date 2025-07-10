@@ -32,7 +32,7 @@ The dataset used in this project includes detailed information about 1470 employ
 
 ## 📬 Contact
 
-For questions or feedback, feel free to contact [Your Name] at [your-email@example.com].
+For questions or feedback, feel free to contact at 64mananshah@gmail.com.
 
 ---
 
