@@ -24,16 +24,3 @@ The dataset used in this project includes detailed information about 1470 employ
 
 - **Power BI**: For building interactive dashboards and visualizations
 - **Microsoft Excel / CSV**: For initial data review and preprocessing
-
-## 📁 File Contents
-
-- `HR_analytics_dashboard.pbix` - Power BI Dashboard file
-- `README.md` - Project documentation
-
-## 📬 Contact
-
-For questions or feedback, feel free to contact at 64mananshah@gmail.com.
-
----
-
-⭐️ *If you found this project useful, don’t forget to star the repository!*
