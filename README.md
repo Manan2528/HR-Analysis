@@ -1,4 +1,4 @@
-🧩 Simplified Problem Statement:
+### 🧩 Problem Statement:
 Companies collect a lot of employee data, but it’s hard to understand it just by looking at numbers. This project helps turn HR data into clear visuals using Power BI. 
 It helps companies understand important things like employee performance, work experience, job satisfaction, and reasons why employees leave. 
 By studying this information, businesses can make better decisions to keep employees happy, reduce staff turnover, and improve workplace policies.
